@@ -1,1 +1,1 @@
-#Git Directory
+#holbertonschool-zer_day
