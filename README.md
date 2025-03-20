@@ -1,1 +1,1 @@
-# Holberton School Zero Day
+This is the root README file.
