@@ -1,1 +1,1 @@
-#holbertonschool-zer_day
+holbertonschool-zero_day
