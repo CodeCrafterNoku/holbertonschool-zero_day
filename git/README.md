@@ -1,1 +1,0 @@
-#holbertonschool-zer_day
